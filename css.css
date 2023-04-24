@@ -21,6 +21,9 @@
     grid-template-columns: auto;
     gap: 0;
   }
+  .sidenav li {
+    margin-bottom: 20px;
+  }
   .sidenav {
     height: 100%;
     display: flex;
