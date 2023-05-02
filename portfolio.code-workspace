@@ -1,0 +1,37 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../ecommerce-product-page-main"
+	},
+	{
+		"path": "../fylo-dark-theme-landing-page-master"
+	},
+	{
+		"path": "../calculator-app-main"
+	},
+	{
+		"path": "../room-homepage"
+	},
+	{
+		"path": "../sunny-side-agency-landing-page-main"
+	},
+	{
+		"path": "../birthday_card"
+	},
+	{
+		"path": "../homepage"
+	},
+	{
+		"path": "../coke"
+	},
+	{
+		"path": "../easybank-landing-page-master"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "portfolio"
+  }
+}
