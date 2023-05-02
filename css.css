@@ -1,4 +1,4 @@
-@media (min-width: 641px) {
+@media (min-width: 991px) {
   #background1 {
     display: none;
   }
@@ -9,7 +9,7 @@
     display: none;
   }
 }
-@media (max-width: 640px) {
+@media (max-width: 990px) {
   .menu {
     display: none;
   }
