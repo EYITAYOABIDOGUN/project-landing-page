@@ -126,3 +126,6 @@ body {
   color: rgb(0, 128, 26);
   margin-left: 5px;
 }
+hr {
+  border: 10px solid var(--homepage-yellow);
+}
